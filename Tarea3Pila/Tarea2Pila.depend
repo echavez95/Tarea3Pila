@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1487208353 source:c:\users\eliezer\documents\estructura de datos\nonversioned\tarea2pila\main.cpp
+	<iostream>
+	<stdlib.h>
+
